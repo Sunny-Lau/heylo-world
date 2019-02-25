@@ -1,0 +1,24 @@
+{
+  "name": "heylo-world",
+  "version": "1.0.0",
+  "description": "My personal blog",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "gitbook-plugin-disqus": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunny-Lau/heylo-world.git"
+  },
+  "author": "Songlin Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunny-Lau/heylo-world/issues"
+  },
+  "homepage": "https://github.com/Sunny-Lau/heylo-world#readme"
+}
